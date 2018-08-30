@@ -5,7 +5,7 @@
 The pass statement does nothing. It can be used when a statement is required syntactically but
 the program requires no action.
 """
-333333333333333333333
+#333333333333333333333
 
 def test_pass_in_function():
     """PASS statement in function
